@@ -37,7 +37,7 @@ def get_positions(key, secret):
 
 
 # Enter your API Key and Secret here. If you don't have one, you can generate it from the website.
-key = "b4b94b3aef5030aa5050cfae3f5f35b9b7f202d5dfba7e95"
-secret = "761e3c1cce2691e459eb9c1ffe5eb4ec59b2a5b2b5ee2ec87774bad76b9bea06"
+key = "xxxx"
+secret = "xxxx"
 
 print(get_positions(key,secret))
